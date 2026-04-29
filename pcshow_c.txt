@@ -1,0 +1,11 @@
+pc-showcase/
+├── index.php          # 前台入口与路由
+├── api.php            # 数据接口
+├── admin.php          # 后台管理页面
+├── admin-actions.php  # 后台表单处理
+├── config.php         # 数据库配置
+├── database.sql       # SQL初始化文件
+├── style.css          # 样式表
+├── script.js          # 前端交互
+├── uploads/           # 图片上传目录
+└── README.md

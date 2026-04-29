@@ -1,0 +1,11 @@
+pc-showcase/
+├── index.php          # 前端页面 + 简易路由（主页/详情）
+├── api.php            # 后端 API（分类、产品列表、详情、搜索）
+├── admin.php          # 管理后台界面（添加分类、添加产品）
+├── admin-actions.php  # 管理操作处理（表单提交、图片上传）
+├── config.php         # 数据库连接配置
+├── database.sql       # MySQL 建表及初始数据
+├── style.css          # 前端样式（响应式）
+├── script.js          # 前端交互（搜索、分类切换、加载产品）
+├── uploads/           # 产品主图上传目录（需可写权限）
+└── README.md
